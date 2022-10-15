@@ -1,6 +1,9 @@
 /*
 Реализовать простой калькулятор
  */
+
+// Реализовал калькулятор с 5-ю действиями и скобками. Такой делали на курсе Python.
+// Алгоритм остался прежний, переписал толко код с Python на  Java
 public class Main {
     public static void main(String[] args) {
         MyCalculator calc = new MyCalculator();
